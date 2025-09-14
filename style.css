@@ -47,7 +47,7 @@ body {
 
 /* Jam Digital */
 .clock {
-  position: relative;
+  position: absolute;
   z-index: 3000;
   background: rgba(255, 255, 255, 0.2);
   border-radius: 20px;
@@ -56,7 +56,7 @@ body {
   box-shadow: 0 8px 32px rgba(0,0,0,0.2);
   text-align: center;
   margin: auto;
-  top: 20vh;
+  top: 29vh;
   width: fit-content;
 }
 
